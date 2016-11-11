@@ -94,6 +94,8 @@ Ako govoris hrvatski, [klikni ovdje](croatian/sljez.md)
 
 Ak hovoríš po slovensky, [klikni sem](slovak/marsmelaci.md)
 
+If you speek slovak, [klikni sem](slovak/nevysvetluj/nevysvetluj_naco.md)
+
 اگر به زبان فارسی صحبت می‌کنید، [به اینجا بروید](persian/otagheh-basteh.md)
 
 आप हिंदी बोलते हैं   ?,[go here](hindi/bollywood.md)
